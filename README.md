@@ -1,17 +1,33 @@
-# TomatoPlantfactoryDataset
+# A dataset of tomato fruits images for object detection in the complex lighting environment of plant factories
+
+**TomatoPlantfactoryDataset**
 
 [![Paper DOI](https://img.shields.io/badge/Data%20in%20Brief-10.1016%2Fj.dib.2023.109291-blue)](https://doi.org/10.1016/j.dib.2023.109291)
 [![Dataset DOI](https://img.shields.io/badge/Mendeley%20Data-10.17632%2F8h3s6jkyff.2-green)](https://doi.org/10.17632/8h3s6jkyff.2)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-A GitHub entry point for **TomatoPlantfactoryDataset**, a tomato fruit
-object-detection dataset collected in an artificial-light plant factory.
+Zhen-wei Wu, Ming-hao Liu, Cheng-xiu Sun and Xin-fa Wang
 
-Data files are hosted on Mendeley Data:
+Data in Brief, 48, 109291, 2023
 
-- Dataset archive: <https://data.mendeley.com/datasets/8h3s6jkyff/2>
-- Dataset DOI: <https://doi.org/10.17632/8h3s6jkyff.2>
-- Data article: <https://doi.org/10.1016/j.dib.2023.109291>
+[[Paper](https://doi.org/10.1016/j.dib.2023.109291)]
+[[Dataset](https://data.mendeley.com/datasets/8h3s6jkyff/2)]
+[[Dataset DOI](https://doi.org/10.17632/8h3s6jkyff.2)]
+[[Quick Start](QUICKSTART_YOLO.md)]
+[[Citation](CITATIONS.md)]
+
+## Abstract
+
+Tomato fruit detection in plant factories is difficult under artificial
+lighting, dense foliage, occlusion, small targets and changing fruit maturity.
+TomatoPlantfactoryDataset provides 520 high-resolution images collected in an
+artificial-light plant factory, with green and red tomato fruits annotated in
+both Pascal VOC XML and YOLO TXT formats. The dataset can be used for tomato
+detection, counting, maturity-related classification, yield estimation,
+harvesting-robot perception and transfer-learning experiments in controlled
+agricultural environments.
+
+For the full article, see the [Data in Brief paper](https://doi.org/10.1016/j.dib.2023.109291).
 
 ## Dataset At A Glance
 
