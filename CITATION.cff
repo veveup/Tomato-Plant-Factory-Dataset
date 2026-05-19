@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use TomatoPlantfactoryDataset, please cite the published data article and the Mendeley Data archive."
+title: "TomatoPlantfactoryDataset"
+authors:
+  - family-names: Wu
+    given-names: Zhen-wei
+  - family-names: Liu
+    given-names: Ming-hao
+  - family-names: Sun
+    given-names: Cheng-xiu
+  - family-names: Wang
+    given-names: Xin-fa
+doi: 10.17632/8h3s6jkyff.2
+url: "https://data.mendeley.com/datasets/8h3s6jkyff/2"
+date-released: 2023-06-08
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "A dataset of tomato fruits images for object detection in the complex lighting environment of plant factories"
+  authors:
+    - family-names: Wu
+      given-names: Zhen-wei
+    - family-names: Liu
+      given-names: Ming-hao
+    - family-names: Sun
+      given-names: Cheng-xiu
+    - family-names: Wang
+      given-names: Xin-fa
+  journal: "Data in Brief"
+  volume: 48
+  year: 2023
+  doi: 10.1016/j.dib.2023.109291
+  url: "https://doi.org/10.1016/j.dib.2023.109291"

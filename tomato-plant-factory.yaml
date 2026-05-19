@@ -1,0 +1,10 @@
+# Example Ultralytics YOLO data configuration.
+# Run prepare_yolo_split.py first to create yolo_dataset/.
+path: yolo_dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: green
+  1: red

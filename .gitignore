@@ -1,0 +1,38 @@
+# Local copies of the published article and dataset archives.
+*.pdf
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# Extracted dataset folders from the official archive.
+/Images/
+/Annotations/
+/labels/
+/TomatoPlantfactoryDataset/
+/data/
+/dataset/
+/datasets/
+/yolo_dataset/
+
+# Common ML experiment outputs.
+/runs/
+/weights/
+/checkpoints/
+/wandb/
+/mlruns/
+*.pt
+*.pth
+*.onnx
+
+# Local development noise.
+.DS_Store
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+BENCHMARKS.md
